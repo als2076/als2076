@@ -1,4 +1,4 @@
-## IMPORTANT
+## Important
 
 This account has merged with [alexsigaras](https://github.com/alexsigaras) and is no longer mantained.
 
