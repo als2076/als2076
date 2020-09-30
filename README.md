@@ -2,7 +2,7 @@
 
 This account has merged with [alexsigaras](https://github.com/alexsigaras) and is no longer mantained.
 
-### Visit below to check out my latest work
+### Visit github icon below to check out my latest work
 </br>
 
 <a href="https://github.com/alexsigaras">
